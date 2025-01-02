@@ -1,0 +1,131 @@
+proxies:
+- name: Github-HE1
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: b35d2c30-c91a-11ef-99af-1239d0255272
+  network: ws
+  sni: sg1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg1.rizfixit.my.id
+- name: Github-HE2
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 07169790-c91b-11ef-84f3-1239d0255272
+  network: ws
+  sni: sg2.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg2.rizfixit.my.id
+- name: Github-HE3
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: d6833420-c91a-11ef-a609-1239d0255272
+  network: ws
+  sni: sg3.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg3.rizfixit.my.id
+- name: Github-OBFS
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: a3688910-c91b-11ef-8c2f-1239d0255272
+  network: ws
+  sni: obfs.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojanws
+  headers:
+    Host: obfs.rizfixit.my.id
+- name: Github-OBFS-USA
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 82760970-c91b-11ef-9152-1239d0255272
+  network: ws
+  sni: us1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojanws
+  headers:
+    Host: us1.rizfixit.my.id
+- name: Github-Melbi
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 8e9d89e0-c91a-11ef-a401-1239d0255272
+  network: ws
+  sni: sg-4.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg-4.rizfixit.my.id
+- name: Github-US
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 57c85500-c91b-11ef-9333-1239d0255272
+  network: ws
+  sni: usa.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: usa.rizfixit.my.id
+- name: Github-UK
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 2f5c5c00-c91b-11ef-8a40-1239d0255272
+  network: ws
+  sni: uk1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: uk1.rizfixit.my.id
+- name: Github-France
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: 681f1300-c91a-11ef-ab0c-1239d0255272
+  network: ws
+  sni: fr1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: fr1.rizfixit.my.id
+- name: Github-Datacamp
+  server: 104.26.7.171
+  port: 443
+  type: trojan
+  password: vvip-dezaa2024
+  network: ws
+  sni: sg3tr.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan
+  headers:
+    Host: sg3tr.rizfixit.my.id
