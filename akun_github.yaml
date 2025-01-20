@@ -3,7 +3,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: b35d2c30-c91a-11ef-99af-1239d0255272
+  password: 9e313060-d753-11ef-8e14-1239d0255272
   network: ws
   sni: sg1.rizfixit.my.id
   skip-cert-verify: true
@@ -16,7 +16,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: 07169790-c91b-11ef-84f3-1239d0255272
+  password: 7eba2ce0-d753-11ef-8d3d-1239d0255272
   network: ws
   sni: sg2.rizfixit.my.id
   skip-cert-verify: true
@@ -42,7 +42,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: a3688910-c91b-11ef-8c2f-1239d0255272
+  password: c357cbc0-d753-11ef-9fba-1239d0255272
   network: ws
   sni: obfs.rizfixit.my.id
   skip-cert-verify: true
@@ -55,7 +55,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: 82760970-c91b-11ef-9152-1239d0255272
+  password: e0e8c340-d753-11ef-8bb9-1239d0255272
   network: ws
   sni: us1.rizfixit.my.id
   skip-cert-verify: true
@@ -107,7 +107,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: 681f1300-c91a-11ef-ab0c-1239d0255272
+  password: 035a8260-d753-11ef-a650-1239d0255272
   network: ws
   sni: fr1.rizfixit.my.id
   skip-cert-verify: true
