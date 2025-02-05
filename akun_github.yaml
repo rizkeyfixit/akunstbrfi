@@ -107,7 +107,7 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: 035a8260-d753-11ef-a650-1239d0255272
+  password: 5e349300-e357-11ef-9d40-1239d0255272
   network: ws
   sni: fr1.rizfixit.my.id
   skip-cert-verify: true
