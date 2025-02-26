@@ -1,9 +1,9 @@
 proxies:
 - name: Github-HE1
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 46b10a70-e358-11ef-b7a2-1239d0255272
+  password: 8fed8e20-f3e1-11ef-95fb-1239d0255272
   network: ws
   sni: sg1.rizfixit.my.id
   skip-cert-verify: true
@@ -13,10 +13,10 @@ proxies:
   headers:
     Host: sg1.rizfixit.my.id
 - name: Github-HE2
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 9822d730-e358-11ef-b544-1239d0255272
+  password: 0080c4b0-f3e1-11ef-a530-1239d0255272
   network: ws
   sni: sg2.rizfixit.my.id
   skip-cert-verify: true
@@ -26,10 +26,10 @@ proxies:
   headers:
     Host: sg2.rizfixit.my.id
 - name: Github-HE3
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 2ecc9f20-e359-11ef-b32f-1239d0255272
+  password: ad698160-f3e1-11ef-be1e-1239d0255272
   network: ws
   sni: sg3.rizfixit.my.id
   skip-cert-verify: true
@@ -39,10 +39,10 @@ proxies:
   headers:
     Host: sg3.rizfixit.my.id
 - name: Github-OBFS
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 6cce6760-e359-11ef-9bb5-1239d0255272
+  password: 329431a0-f3e2-11ef-979d-1239d0255272
   network: ws
   sni: obfs.rizfixit.my.id
   skip-cert-verify: true
@@ -52,10 +52,10 @@ proxies:
   headers:
     Host: obfs.rizfixit.my.id
 - name: Github-OBFS-USA
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 4dd88420-e359-11ef-a5f6-1239d0255272
+  password: 13724a90-f3e2-11ef-9a90-1239d0255272
   network: ws
   sni: us1.rizfixit.my.id
   skip-cert-verify: true
@@ -65,10 +65,10 @@ proxies:
   headers:
     Host: us1.rizfixit.my.id
 - name: Github-Melbi
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 6a3b03e0-e358-11ef-a049-1239d0255272
+  password: dd9b0590-f3e0-11ef-9372-1239d0255272
   network: ws
   sni: sg-4.rizfixit.my.id
   skip-cert-verify: true
@@ -78,10 +78,10 @@ proxies:
   headers:
     Host: sg-4.rizfixit.my.id
 - name: Github-US
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: ca4c72a0-e358-11ef-a164-1239d0255272
+  password: b7a290d0-f3e0-11ef-b5e1-1239d0255272
   network: ws
   sni: usa.rizfixit.my.id
   skip-cert-verify: true
@@ -91,10 +91,10 @@ proxies:
   headers:
     Host: usa.rizfixit.my.id
 - name: Github-UK
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: fc472f00-e358-11ef-bf91-1239d0255272
+  password: e70687e0-f3e1-11ef-9a13-1239d0255272
   network: ws
   sni: uk1.rizfixit.my.id
   skip-cert-verify: true
@@ -104,10 +104,10 @@ proxies:
   headers:
     Host: uk1.rizfixit.my.id
 - name: Github-France
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
-  password: 5e349300-e357-11ef-9d40-1239d0255272
+  password: 92a2f550-f3e0-11ef-ac0c-1239d0255272
   network: ws
   sni: fr1.rizfixit.my.id
   skip-cert-verify: true
@@ -117,7 +117,7 @@ proxies:
   headers:
     Host: fr1.rizfixit.my.id
 - name: Github-Datacamp
-  server: 104.26.7.171
+  server: audisi.ruangguru.com
   port: 443
   type: trojan
   password: vvip-dezaa2024
