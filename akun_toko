@@ -1,0 +1,144 @@
+proxies:
+- name: Github-HE1
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: f04b31c0-f4e6-11ef-90f3-1239d0255272
+  network: ws
+  sni: sg1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg1.rizfixit.my.id
+- name: Github-HE2
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 35568460-f4e7-11ef-8dc4-1239d0255272
+  network: ws
+  sni: sg2.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg2.rizfixit.my.id
+- name: Github-HE3
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 70e11620-f4e7-11ef-8feb-1239d0255272
+  network: ws
+  sni: sg3.6n6.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg3.rizfixit.my.id
+- name: Github-OBFS
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 574a7480-f4e8-11ef-af66-1239d0255272
+  network: ws
+  sni: obfs.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojanws
+  headers:
+    Host: obfs.rizfixit.my.id
+- name: Github-OBFS-USA
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 2c50b6f0-f4e8-11ef-a479-1239d0255272
+  network: ws
+  sni: us1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojanws
+  headers:
+    Host: us1.rizfixit.my.id
+- name: Github-Melbi
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: e17c1e20-f4e7-11ef-b56e-1239d0255272
+  network: ws
+  sni: sg-4.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: sg-4.rizfixit.my.id
+- name: Github-US
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: bbd64900-f4e7-11ef-9742-1239d0255272
+  network: ws
+  sni: usa.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: usa.rizfixit.my.id
+- name: Github-UK
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 0a453860-f4e8-11ef-8cab-1239d0255272
+  network: ws
+  sni: uk1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: uk1.rizfixit.my.id
+- name: Github-France
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: 9739f4b0-f4e7-11ef-a7d5-1239d0255272
+  network: ws
+  sni: fr1.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /howdy
+  headers:
+    Host: fr1.rizfixit.my.id
+- name: Github-Datacamp
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: vvip-dezaa2024
+  network: ws
+  sni: sg3tr.rizfixit.my.id
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan
+  headers:
+    Host: sg3tr.rizfixit.my.id
+- name: Github-Melbikuomas
+  server: audisi.ruangguru.com
+  port: 443
+  type: trojan
+  password: vvip-deza2025
+  network: ws
+  sni: sg2tr.servervip.us.kg
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: /trojan
+  headers:
+    Host: sg2tr.servervip.us.kg
