@@ -12,120 +12,120 @@ proxies:
     path: /203.194.112.119-8443
   headers:
     Host: riz.rizkeyfixit.my.id
-- name: Github-HE2
-  server: audisi.ruangguru.com
+- name: Github-Amazon
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 0080c4b0-f3e1-11ef-a530-1239d0255272
+  password: 1d15c47f-713c-4b95-b5cc-32fce5d549e6
   network: ws
-  sni: sg2.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /43.218.77.16-443
   headers:
-    Host: sg2.rizfixit.my.id
-- name: Github-HE3
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-PMI
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: ad698160-f3e1-11ef-be1e-1239d0255272
+  password: 025b2e2d-9f97-4751-811d-62042f87539
   network: ws
-  sni: sg3.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /103.6.207.108-8080
   headers:
-    Host: sg3.rizfixit.my.id
-- name: Github-OBFS
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-Linode
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 329431a0-f3e2-11ef-979d-1239d0255272
+  password: 96bf12d3-b547-45d4-bfaa-9a4b5f837200
   network: ws
-  sni: obfs.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojanws
+    path: /172.232.239.151-587
   headers:
-    Host: obfs.rizfixit.my.id
-- name: Github-OBFS-USA
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-OVH
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 13724a90-f3e2-11ef-9a90-1239d0255272
+  password: 257da19e-6943-4df7-8de2-079b8f0feff7
   network: ws
-  sni: us1.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /trojanws
+    path: /51.79.158.126-443
   headers:
-    Host: us1.rizfixit.my.id
-- name: Github-Melbi
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-DigitalOcean
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: dd9b0590-f3e0-11ef-9372-1239d0255272
+  password: 257da19e-6943-4df7-8de2-079b8f0feff7
   network: ws
-  sni: sg-4.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /178.128.80.43-443
   headers:
-    Host: sg-4.rizfixit.my.id
-- name: Github-US
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-Akamai
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: b7a290d0-f3e0-11ef-b5e1-1239d0255272
+  password: c6fee8a2-0c11-46df-b806-66b51c653962
   network: ws
-  sni: usa.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /139.162.33.248-587
   headers:
-    Host: usa.rizfixit.my.id
-- name: Github-UK
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-Contabo
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: e70687e0-f3e1-11ef-9a13-1239d0255272
+  password: 2d16c5df-5273-4c8f-860e-f1dda7d5e67d
   network: ws
-  sni: uk1.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /62.72.46.14-8443
   headers:
-    Host: uk1.rizfixit.my.id
-- name: Github-France
-  server: audisi.ruangguru.com
+    Host: riz.rizkeyfixit.my.id
+- name: Github-Melbikomas
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 92a2f550-f3e0-11ef-ac0c-1239d0255272
+  password: e0e6667b-4781-4468-b468-5e69178546bf
   network: ws
-  sni: fr1.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /91.192.81.154-2053
   headers:
-    Host: fr1.rizfixit.my.id
+    Host: riz.rizkeyfixit.my.id
 - name: Github-Datacamp
-  server: audisi.ruangguru.com
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: vvip-dezaa2024
+  password: vvip-rizkeyfixit0325
   network: ws
-  sni: sg3tr.rizfixit.my.id
+  sni: sg3tr.jagoanvip.xyz
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: /trojan
   headers:
-    Host: sg3tr.rizfixit.my.id
+    Host: sg3tr.jagoanvip.xyz
