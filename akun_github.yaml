@@ -1,17 +1,17 @@
 proxies:
-- name: Github-HE1
-  server: audisi.ruangguru.com
+- name: Github-Rumahweb
+  server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: 8fed8e20-f3e1-11ef-95fb-1239d0255272
+  password: 1d15c47f-713c-4b95-b5cc-32fce5d549e6
   network: ws
-  sni: sg1.rizfixit.my.id
+  sni: riz.rizkeyfixit.my.id
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /howdy
+    path: /203.194.112.119-8443
   headers:
-    Host: sg1.rizfixit.my.id
+    Host: riz.rizkeyfixit.my.id
 - name: Github-HE2
   server: audisi.ruangguru.com
   port: 443
