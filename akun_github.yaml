@@ -107,15 +107,15 @@ proxies:
   server: quiz.int.vidio.com
   port: 443
   type: trojan
-  password: e0e6667b-4781-4468-b468-5e69178546bf
+  password: vvip-rizfixit009
   network: ws
-  sni: riz.rizkeyfixit.my.id
+  sni: sg2tr.jagoanvip.xyz
   skip-cert-verify: true
   udp: true
   ws-opts:
-    path: /91.192.81.154-2053
+    path: /trojan
   headers:
-    Host: riz.rizkeyfixit.my.id
+    Host: sg2tr.jagoanvip.xyz
 - name: Github-Datacamp
   server: quiz.int.vidio.com
   port: 443
